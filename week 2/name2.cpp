@@ -25,7 +25,7 @@ int main(void) {
 	**************** =>5th
 	*/
 	// 인사말을 둘러싼 공백의 개수
-	const int pad = 5;
+	const int pad = 3;
 
 
 	// 출력할 핼과 열 개수
@@ -63,4 +63,4 @@ int main(void) {
 	}// for 끝
 
 	return 0;
-}// maine() 끝
+}// main() 끝
